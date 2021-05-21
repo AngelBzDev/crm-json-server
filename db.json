@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Angelo",
+      "email": "angelbaezsalazar43@gmail.com",
+      "telefono": "2344234",
+      "empresa": "Google",
+      "id": 2
+    },
+    {
+      "nombre": "Juan",
+      "email": "juan@gmail.com",
+      "telefono": "5235324234",
+      "empresa": "Amazon",
+      "id": 3
+    },
+    {
+      "nombre": "Rodolfo",
+      "email": "rodolfin@gmail.com",
+      "telefono": "434234324",
+      "empresa": "Auron Corp.",
+      "id": 4
+    },
+    {
+      "nombre": "Auronplais",
+      "email": "auronplais@gmail.com",
+      "telefono": "4234409",
+      "empresa": "Auron Corp.",
+      "id": 5
+    }
+  ]
+}
